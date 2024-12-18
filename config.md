@@ -55,3 +55,11 @@ bun test
 ```bash
 bun test --watch
 ```
+
+9. Workspaces
+
+```json
+"workspaces": [
+    "packages/*"
+  ],
+```
